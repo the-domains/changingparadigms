@@ -1,8 +1,7 @@
 name: ChangingParadigms
 favicon: null
-layout_spectrum: 0.48014
-typography_spectrum: 0.61114
-title: Changing Paradigms - an AI blog site via The Grid
+layout_spectrum: 0.6965836314484477
+typography_spectrum: 0.6346256623510271
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#040809'
-    - '#797e81'
-    - '#43555f'
-    - '#c0b9a6'
-  brandStrength: 0.375
-  lightness: 0.8125
-  saturation: 0.125
-  rhythmicContrast: 0
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4782503095921129
+  lightness: 0.0741301670204848
+  saturation: 0.6596293428447098
+  rhythmicContrast: 0.29698565090075135
 purpose: []
