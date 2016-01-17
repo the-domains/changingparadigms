@@ -4,8 +4,15 @@
         <description><![CDATA[Changing Paradigms - an AI blog site via The Grid]]></description>
         <link>https://thegrid.ai/changingparadigms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 13:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 13:38:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/changingparadigms/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One more post...]]></title>
+            <description><![CDATA[<article><h1>One more post...</h1><p>One more example...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9763cfbea3d304b38e71015ebb07b7c6ec81845.jpg"></article>]]></description>
+            <link>https://thegrid.ai/changingparadigms/e91dda37-8734-4200-bcac-184e17dac0fe/index.html</link>
+            <guid isPermaLink="false">e91dda37-8734-4200-bcac-184e17dac0fe</guid>
+            <pubDate>Sun, 17 Jan 2016 13:38:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Just another post]]></title>
             <description><![CDATA[<article><h1>Just another post</h1><p>Just another Chngngprdgms-Post</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/803d4bd6b3d408740e49a486038560e6b526e470.jpg"></article>]]></description>
