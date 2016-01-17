@@ -4,18 +4,25 @@
         <description><![CDATA[Changing Paradigms - an AI blog site via The Grid]]></description>
         <link>https://thegrid.ai/changingparadigms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 13:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 15:48:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/changingparadigms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Post ohne Foto]]></title>
+            <description><![CDATA[<article><h1>Post ohne Foto</h1><p>POST OHNE FOTO</p></article>]]></description>
+            <link>https://thegrid.ai/changingparadigms/post-ohne-foto/index.html</link>
+            <guid isPermaLink="false">434d5235-e0b4-441b-91ab-ffb5e2700ebf</guid>
+            <pubDate>Sun, 17 Jan 2016 15:47:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[a zoo picture]]></title>
-            <description><![CDATA[<article><h1>a zoo picture</h1><p>And a picture from the zoo - i want to see how that works</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dd5066e0a26a7a1041b97b077c8cb8b578149c3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>a zoo picture</h1><p>And a picture from the zoo - i want to see how that works</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9545be24da393b2136554083273a8db82d9a9545.jpg"></article>]]></description>
             <link>https://thegrid.ai/changingparadigms/a-zoo-picture/index.html</link>
             <guid isPermaLink="false">4ce8f2db-6a99-487c-bc01-b0ec74a25eff</guid>
             <pubDate>Sun, 17 Jan 2016 13:50:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Another picture post]]></title>
-            <description><![CDATA[<article><h1>Another picture post</h1><p>Just another picture post... I just want to find out, what The Grid does with more posts with more pictures... maybe - again - I'll select a picture "with water on it"??? No, I found one with a building on it...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7340b21e6bef568d813a7a29c2b843b9d2bc361.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Another picture post</h1><p>Just another picture post... I just want to find out, what The Grid does with more posts with more pictures... maybe - again - I'll select a picture "with water on it"??? No, I found one with a building on it...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0bc5c129ed912b0202320bf648e23184a668d9a.jpg"></article>]]></description>
             <link>https://thegrid.ai/changingparadigms/another-picture-post/index.html</link>
             <guid isPermaLink="false">7959c51c-2bd3-43ad-866e-034c04560291</guid>
             <pubDate>Sun, 17 Jan 2016 13:50:40 GMT</pubDate>
@@ -30,14 +37,14 @@
         </item>
         <item>
             <title><![CDATA[One more post...]]></title>
-            <description><![CDATA[<article><h1>One more post...</h1><p>One more example...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9763cfbea3d304b38e71015ebb07b7c6ec81845.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>One more post...</h1><p>One more example...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/345f731fc633c9a931379137ad573666beee6ca2.jpg"></article>]]></description>
             <link>https://thegrid.ai/changingparadigms/e91dda37-8734-4200-bcac-184e17dac0fe/index.html</link>
             <guid isPermaLink="false">e91dda37-8734-4200-bcac-184e17dac0fe</guid>
             <pubDate>Sun, 17 Jan 2016 13:38:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just another post]]></title>
-            <description><![CDATA[<article><h1>Just another post</h1><p>Just another Chngngprdgms-Post</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/803d4bd6b3d408740e49a486038560e6b526e470.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Just another post</h1><p>Just another Chngngprdgms-Post</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d16ef1f8483d052c9576f7a171d78d752af5104.jpg"></article>]]></description>
             <link>https://thegrid.ai/changingparadigms/7bbe01ca-29b6-4092-8725-2594eb73a26c/index.html</link>
             <guid isPermaLink="false">7bbe01ca-29b6-4092-8725-2594eb73a26c</guid>
             <pubDate>Sun, 17 Jan 2016 13:37:54 GMT</pubDate>
