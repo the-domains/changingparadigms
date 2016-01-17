@@ -4,8 +4,15 @@
         <description><![CDATA[Changing Paradigms - an AI blog site via The Grid]]></description>
         <link>https://thegrid.ai/changingparadigms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 13:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 13:50:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/changingparadigms/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[a zoo picture]]></title>
+            <description><![CDATA[<article><h1>a zoo picture</h1><p>And a picture from the zoo - i want to see how that works</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dd5066e0a26a7a1041b97b077c8cb8b578149c3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/changingparadigms/a-zoo-picture/index.html</link>
+            <guid isPermaLink="false">4ce8f2db-6a99-487c-bc01-b0ec74a25eff</guid>
+            <pubDate>Sun, 17 Jan 2016 13:50:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Another picture post]]></title>
             <description><![CDATA[<article><h1>Another picture post</h1><p>Just another picture post... I just want to find out, what The Grid does with more posts with more pictures... maybe - again - I'll select a picture "with water on it"??? No, I found one with a building on it...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7340b21e6bef568d813a7a29c2b843b9d2bc361.jpg"></article>]]></description>
