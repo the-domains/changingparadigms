@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ChangingParadigms]]></title>
-        <description><![CDATA[ChangingParadigms]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Changing Paradigms-Blog]]></title>
+        <description><![CDATA[Changing Paradigms-Blog]]></description>
+        <link>https://thegrid.ai/changingparadigms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 12:41:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 13:00:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/changingparadigms/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is a picture from flying high over the clouds...</p>]]></description>
+            <link>https://thegrid.ai/changingparadigms/2d77acf7-07fd-40f0-9d0c-3ea50e871224/index.html</link>
+            <guid isPermaLink="false">2d77acf7-07fd-40f0-9d0c-3ea50e871224</guid>
+            <pubDate>Sun, 17 Jan 2016 12:59:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ursprünglich sind Paradigmen bestimmte Weltanschauungen oder Lehrmeinungen, die einen anerkannten Konsens widerspiegeln (Wikipedia). Changing Paradigms implizieren fundamentale Veränderungen des gesellschaftlichen Wissens zu einem bestimmten Thema.
 </p>]]></description>
-            <link>undefined6ff2494c-30e1-4c35-bbe0-a7d887d74df8/index.html</link>
+            <link>https://thegrid.ai/changingparadigms/6ff2494c-30e1-4c35-bbe0-a7d887d74df8/index.html</link>
             <guid isPermaLink="false">6ff2494c-30e1-4c35-bbe0-a7d887d74df8</guid>
             <pubDate>Sun, 17 Jan 2016 12:41:25 GMT</pubDate>
         </item>
